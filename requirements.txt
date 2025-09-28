@@ -1,0 +1,7 @@
+streamlit
+pytest
+black
+ruff
+pandas
+python-dateutil
+protobuf==4.25.3
