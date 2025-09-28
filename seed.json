@@ -1,0 +1,1140 @@
+{
+  "candidates": [
+    {
+      "id": "1",
+      "name": "Adelina",
+      "skills": [
+        "python",
+        "sql"
+      ],
+      "exp_years": 3,
+      "location": "almaty",
+      "edu": "bachelor"
+    },
+    {
+      "id": "2",
+      "name": "Ivan",
+      "skills": [
+        "java",
+        "docker"
+      ],
+      "exp_years": 2,
+      "location": "moscow",
+      "edu": "master"
+    },
+    {
+      "id": "3",
+      "name": "Amina",
+      "skills": [
+        "python",
+        "git"
+      ],
+      "exp_years": 1,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "4",
+      "name": "Daniyar",
+      "skills": [
+        "c++",
+        "linux"
+      ],
+      "exp_years": 4,
+      "location": "almaty",
+      "edu": "master"
+    },
+    {
+      "id": "5",
+      "name": "Olga",
+      "skills": [
+        "react",
+        "node"
+      ],
+      "exp_years": 5,
+      "location": "spb",
+      "edu": "bachelor"
+    },
+    {
+      "id": "6",
+      "name": "Sergey",
+      "skills": [
+        "go",
+        "kubernetes"
+      ],
+      "exp_years": 6,
+      "location": "moscow",
+      "edu": "bachelor"
+    },
+    {
+      "id": "7",
+      "name": "Aruzhan",
+      "skills": [
+        "python",
+        "ml"
+      ],
+      "exp_years": 2,
+      "location": "almaty",
+      "edu": "master"
+    },
+    {
+      "id": "8",
+      "name": "Timur",
+      "skills": [
+        "php",
+        "laravel"
+      ],
+      "exp_years": 4,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "9",
+      "name": "Anna",
+      "skills": [
+        "c#",
+        ".net"
+      ],
+      "exp_years": 3,
+      "location": "moscow",
+      "edu": "master"
+    },
+    {
+      "id": "10",
+      "name": "Dias",
+      "skills": [
+        "python",
+        "django"
+      ],
+      "exp_years": 2,
+      "location": "almaty",
+      "edu": "bachelor"
+    },
+    {
+      "id": "11",
+      "name": "Murat",
+      "skills": [
+        "scala",
+        "spark"
+      ],
+      "exp_years": 5,
+      "location": "astana",
+      "edu": "master"
+    },
+    {
+      "id": "12",
+      "name": "Elena",
+      "skills": [
+        "html",
+        "css",
+        "javascript"
+      ],
+      "exp_years": 2,
+      "location": "spb",
+      "edu": "bachelor"
+    },
+    {
+      "id": "13",
+      "name": "Rustam",
+      "skills": [
+        "python",
+        "flask"
+      ],
+      "exp_years": 3,
+      "location": "almaty",
+      "edu": "master"
+    },
+    {
+      "id": "14",
+      "name": "Nurlan",
+      "skills": [
+        "c",
+        "embedded"
+      ],
+      "exp_years": 6,
+      "location": "moscow",
+      "edu": "bachelor"
+    },
+    {
+      "id": "15",
+      "name": "Svetlana",
+      "skills": [
+        "java",
+        "spring"
+      ],
+      "exp_years": 4,
+      "location": "spb",
+      "edu": "master"
+    },
+    {
+      "id": "16",
+      "name": "Baurzhan",
+      "skills": [
+        "python",
+        "tensorflow"
+      ],
+      "exp_years": 3,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "17",
+      "name": "Alina",
+      "skills": [
+        "javascript",
+        "vue"
+      ],
+      "exp_years": 2,
+      "location": "moscow",
+      "edu": "bachelor"
+    },
+    {
+      "id": "18",
+      "name": "Kirill",
+      "skills": [
+        "devops",
+        "ansible"
+      ],
+      "exp_years": 5,
+      "location": "almaty",
+      "edu": "master"
+    },
+    {
+      "id": "19",
+      "name": "Diana",
+      "skills": [
+        "python",
+        "data analysis"
+      ],
+      "exp_years": 1,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "20",
+      "name": "Oleg",
+      "skills": [
+        "c++",
+        "qt"
+      ],
+      "exp_years": 4,
+      "location": "moscow",
+      "edu": "master"
+    },
+    {
+      "id": "21",
+      "name": "Maksat",
+      "skills": [
+        "python",
+        "fastapi"
+      ],
+      "exp_years": 3,
+      "location": "almaty",
+      "edu": "bachelor"
+    },
+    {
+      "id": "22",
+      "name": "Yulia",
+      "skills": [
+        "java",
+        "hibernate"
+      ],
+      "exp_years": 2,
+      "location": "spb",
+      "edu": "master"
+    },
+    {
+      "id": "23",
+      "name": "Andrey",
+      "skills": [
+        "golang",
+        "grpc"
+      ],
+      "exp_years": 5,
+      "location": "moscow",
+      "edu": "bachelor"
+    },
+    {
+      "id": "24",
+      "name": "Zarina",
+      "skills": [
+        "python",
+        "pandas"
+      ],
+      "exp_years": 2,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "25",
+      "name": "Askar",
+      "skills": [
+        "ruby",
+        "rails"
+      ],
+      "exp_years": 4,
+      "location": "almaty",
+      "edu": "master"
+    },
+    {
+      "id": "26",
+      "name": "Tatiana",
+      "skills": [
+        "frontend",
+        "angular"
+      ],
+      "exp_years": 3,
+      "location": "spb",
+      "edu": "bachelor"
+    },
+    {
+      "id": "27",
+      "name": "Sanzhar",
+      "skills": [
+        "c++",
+        "opengl"
+      ],
+      "exp_years": 6,
+      "location": "moscow",
+      "edu": "master"
+    },
+    {
+      "id": "28",
+      "name": "Kamila",
+      "skills": [
+        "python",
+        "seaborn"
+      ],
+      "exp_years": 1,
+      "location": "almaty",
+      "edu": "bachelor"
+    },
+    {
+      "id": "29",
+      "name": "Denis",
+      "skills": [
+        "java",
+        "maven"
+      ],
+      "exp_years": 4,
+      "location": "astana",
+      "edu": "master"
+    },
+    {
+      "id": "30",
+      "name": "Aliya",
+      "skills": [
+        "html",
+        "css",
+        "bootstrap"
+      ],
+      "exp_years": 2,
+      "location": "spb",
+      "edu": "bachelor"
+    },
+    {
+      "id": "31",
+      "name": "Roman",
+      "skills": [
+        "python",
+        "sqlalchemy"
+      ],
+      "exp_years": 3,
+      "location": "moscow",
+      "edu": "bachelor"
+    },
+    {
+      "id": "32",
+      "name": "Saule",
+      "skills": [
+        "r",
+        "statistics"
+      ],
+      "exp_years": 2,
+      "location": "almaty",
+      "edu": "master"
+    },
+    {
+      "id": "33",
+      "name": "Ilya",
+      "skills": [
+        "c#",
+        "wpf"
+      ],
+      "exp_years": 5,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "34",
+      "name": "Madina",
+      "skills": [
+        "python",
+        "scikit-learn"
+      ],
+      "exp_years": 2,
+      "location": "almaty",
+      "edu": "master"
+    },
+    {
+      "id": "35",
+      "name": "Viktor",
+      "skills": [
+        "java",
+        "junit"
+      ],
+      "exp_years": 4,
+      "location": "moscow",
+      "edu": "bachelor"
+    },
+    {
+      "id": "36",
+      "name": "Karina",
+      "skills": [
+        "javascript",
+        "svelte"
+      ],
+      "exp_years": 2,
+      "location": "spb",
+      "edu": "master"
+    },
+    {
+      "id": "37",
+      "name": "Bekzat",
+      "skills": [
+        "python",
+        "airflow"
+      ],
+      "exp_years": 3,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "38",
+      "name": "Vera",
+      "skills": [
+        "c++",
+        "boost"
+      ],
+      "exp_years": 6,
+      "location": "moscow",
+      "edu": "master"
+    },
+    {
+      "id": "39",
+      "name": "Aidana",
+      "skills": [
+        "python",
+        "matplotlib"
+      ],
+      "exp_years": 1,
+      "location": "almaty",
+      "edu": "bachelor"
+    },
+    {
+      "id": "40",
+      "name": "Stepan",
+      "skills": [
+        "go",
+        "docker"
+      ],
+      "exp_years": 4,
+      "location": "spb",
+      "edu": "master"
+    },
+    {
+      "id": "41",
+      "name": "Zhanna",
+      "skills": [
+        "python",
+        "pytest"
+      ],
+      "exp_years": 2,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "42",
+      "name": "Egor",
+      "skills": [
+        "java",
+        "gradle"
+      ],
+      "exp_years": 3,
+      "location": "moscow",
+      "edu": "master"
+    },
+    {
+      "id": "43",
+      "name": "Arman",
+      "skills": [
+        "c++",
+        "algorithms"
+      ],
+      "exp_years": 5,
+      "location": "almaty",
+      "edu": "bachelor"
+    },
+    {
+      "id": "44",
+      "name": "Irina",
+      "skills": [
+        "javascript",
+        "typescript"
+      ],
+      "exp_years": 2,
+      "location": "spb",
+      "edu": "master"
+    },
+    {
+      "id": "45",
+      "name": "Yernar",
+      "skills": [
+        "python",
+        "scrapy"
+      ],
+      "exp_years": 3,
+      "location": "astana",
+      "edu": "bachelor"
+    },
+    {
+      "id": "46",
+      "name": "Maxim",
+      "skills": [
+        "c#",
+        "asp.net"
+      ],
+      "exp_years": 4,
+      "location": "moscow",
+      "edu": "master"
+    },
+    {
+      "id": "47",
+      "name": "Aigul",
+      "skills": [
+        "python",
+        "numpy"
+      ],
+      "exp_years": 1,
+      "location": "almaty",
+      "edu": "bachelor"
+    },
+    {
+      "id": "48",
+      "name": "Konstantin",
+      "skills": [
+        "java",
+        "kafka"
+      ],
+      "exp_years": 6,
+      "location": "spb",
+      "edu": "bachelor"
+    },
+    {
+      "id": "49",
+      "name": "Malika",
+      "skills": [
+        "python",
+        "nlp"
+      ],
+      "exp_years": 2,
+      "location": "astana",
+      "edu": "master"
+    },
+    {
+      "id": "50",
+      "name": "Pavel",
+      "skills": [
+        "golang",
+        "cloud"
+      ],
+      "exp_years": 5,
+      "location": "moscow",
+      "edu": "bachelor"
+    }
+  ],
+  "resumes": [
+    {
+      "id": "r1",
+      "cand_id": "1",
+      "text": "Python developer with 3 years in Almaty. Bachelor degree.",
+      "parsed": {}
+    },
+    {
+      "id": "r2",
+      "cand_id": "2",
+      "text": "Java engineer with 2 years in Moscow. Master degree.",
+      "parsed": {}
+    },
+    {
+      "id": "r3",
+      "cand_id": "3",
+      "text": "Junior Python dev, 1 year in Astana. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r4",
+      "cand_id": "4",
+      "text": "C++ developer, 4 years in Almaty. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r5",
+      "cand_id": "5",
+      "text": "Frontend React dev, 5 years in SPB. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r6",
+      "cand_id": "6",
+      "text": "Data analyst with SQL and Python, 2 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r7",
+      "cand_id": "7",
+      "text": "System administrator, 6 years in Astana. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r8",
+      "cand_id": "8",
+      "text": "Mobile developer (Kotlin), 3 years in Moscow. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r9",
+      "cand_id": "9",
+      "text": "Fullstack engineer (Node + React), 4 years in Almaty. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r10",
+      "cand_id": "10",
+      "text": "C# backend dev, 5 years in SPB. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r11",
+      "cand_id": "11",
+      "text": "Machine learning engineer, 2 years in Almaty. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r12",
+      "cand_id": "12",
+      "text": "DevOps engineer with Docker & Kubernetes, 3 years in Moscow. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r13",
+      "cand_id": "13",
+      "text": "QA tester, 1 year in Astana. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r14",
+      "cand_id": "14",
+      "text": "Security engineer, 7 years in Almaty. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r15",
+      "cand_id": "15",
+      "text": "Frontend Vue.js dev, 2 years in SPB. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r16",
+      "cand_id": "16",
+      "text": "Embedded C developer, 3 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r17",
+      "cand_id": "17",
+      "text": "AI researcher, 5 years in Astana. PhD.",
+      "parsed": {}
+    },
+    {
+      "id": "r18",
+      "cand_id": "18",
+      "text": "Project manager with IT background, 6 years in Moscow. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r19",
+      "cand_id": "19",
+      "text": "Junior Java dev, 1 year in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r20",
+      "cand_id": "20",
+      "text": "UX/UI designer, 4 years in SPB. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r21",
+      "cand_id": "21",
+      "text": "Scala backend dev, 3 years in Astana. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r22",
+      "cand_id": "22",
+      "text": "Python data scientist, 5 years in Moscow. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r23",
+      "cand_id": "23",
+      "text": "C developer for embedded, 2 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r24",
+      "cand_id": "24",
+      "text": "Rust systems engineer, 3 years in SPB. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r25",
+      "cand_id": "25",
+      "text": "iOS dev (Swift), 4 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r26",
+      "cand_id": "26",
+      "text": "Android dev (Java/Kotlin), 5 years in Astana. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r27",
+      "cand_id": "27",
+      "text": "Cloud engineer AWS/GCP, 3 years in Moscow. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r28",
+      "cand_id": "28",
+      "text": "Business analyst, 2 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r29",
+      "cand_id": "29",
+      "text": "Network engineer, 6 years in SPB. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r30",
+      "cand_id": "30",
+      "text": "PHP developer, 3 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r31",
+      "cand_id": "31",
+      "text": "Go developer, 4 years in Astana. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r32",
+      "cand_id": "32",
+      "text": "Game developer (Unity C#), 5 years in Moscow. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r33",
+      "cand_id": "33",
+      "text": "Fullstack PHP+Vue dev, 2 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r34",
+      "cand_id": "34",
+      "text": "Database administrator (Postgres), 6 years in SPB. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r35",
+      "cand_id": "35",
+      "text": "AI product manager, 3 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r36",
+      "cand_id": "36",
+      "text": "Junior frontend Angular dev, 1 year in Astana. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r37",
+      "cand_id": "37",
+      "text": "Python ML ops, 4 years in Moscow. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r38",
+      "cand_id": "38",
+      "text": "Blockchain engineer (Solidity), 2 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r39",
+      "cand_id": "39",
+      "text": "Computer vision researcher, 5 years in SPB. PhD.",
+      "parsed": {}
+    },
+    {
+      "id": "r40",
+      "cand_id": "40",
+      "text": "Backend Node.js dev, 3 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r41",
+      "cand_id": "41",
+      "text": "Software architect, 10 years in Astana. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r42",
+      "cand_id": "42",
+      "text": "C++ game engine dev, 7 years in Moscow. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r43",
+      "cand_id": "43",
+      "text": "QA automation engineer, 3 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r44",
+      "cand_id": "44",
+      "text": "Site reliability engineer (SRE), 5 years in SPB. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r45",
+      "cand_id": "45",
+      "text": "Java Spring developer, 2 years in Almaty. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r46",
+      "cand_id": "46",
+      "text": "ERP consultant, 6 years in Astana. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r47",
+      "cand_id": "47",
+      "text": "Python backend with Django, 4 years in Moscow. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r48",
+      "cand_id": "48",
+      "text": "Research assistant in NLP, 2 years in Almaty. Master.",
+      "parsed": {}
+    },
+    {
+      "id": "r49",
+      "cand_id": "49",
+      "text": "IT support engineer, 5 years in SPB. Bachelor.",
+      "parsed": {}
+    },
+    {
+      "id": "r50",
+      "cand_id": "50",
+      "text": "Junior data engineer, 1 year in Almaty. Bachelor.",
+      "parsed": {}
+    }
+  ],
+  "jobs": [
+    {
+      "id": "j1",
+      "title": "Backend Developer",
+      "skills_req": [
+        "python",
+        "sql"
+      ],
+      "exp_req": 2,
+      "location": "almaty"
+    },
+    {
+      "id": "j2",
+      "title": "Frontend Developer",
+      "skills_req": [
+        "react",
+        "node"
+      ],
+      "exp_req": 3,
+      "location": "spb"
+    },
+    {
+      "id": "j3",
+      "title": "DevOps Engineer",
+      "skills_req": [
+        "docker",
+        "linux"
+      ],
+      "exp_req": 4,
+      "location": "moscow"
+    },
+    {
+      "id": "j4",
+      "title": "Data Scientist",
+      "skills_req": [
+        "python",
+        "ml"
+      ],
+      "exp_req": 2,
+      "location": "almaty"
+    },
+    {
+      "id": "j5",
+      "title": "Mobile Developer",
+      "skills_req": [
+        "kotlin",
+        "swift"
+      ],
+      "exp_req": 3,
+      "location": "astana"
+    },
+    {
+      "id": "j6",
+      "title": "System Administrator",
+      "skills_req": [
+        "linux",
+        "networking"
+      ],
+      "exp_req": 5,
+      "location": "moscow"
+    },
+    {
+      "id": "j7",
+      "title": "QA Engineer",
+      "skills_req": [
+        "testing",
+        "selenium"
+      ],
+      "exp_req": 1,
+      "location": "almaty"
+    },
+    {
+      "id": "j8",
+      "title": "Fullstack Developer",
+      "skills_req": [
+        "node",
+        "react",
+        "sql"
+      ],
+      "exp_req": 3,
+      "location": "spb"
+    },
+    {
+      "id": "j9",
+      "title": "C++ Developer",
+      "skills_req": [
+        "c++",
+        "linux"
+      ],
+      "exp_req": 4,
+      "location": "almaty"
+    },
+    {
+      "id": "j10",
+      "title": "UI/UX Designer",
+      "skills_req": [
+        "figma",
+        "design"
+      ],
+      "exp_req": 2,
+      "location": "astana"
+    },
+    {
+      "id": "j11",
+      "title": "Cloud Engineer",
+      "skills_req": [
+        "aws",
+        "gcp"
+      ],
+      "exp_req": 3,
+      "location": "moscow"
+    },
+    {
+      "id": "j12",
+      "title": "Database Administrator",
+      "skills_req": [
+        "postgres",
+        "sql"
+      ],
+      "exp_req": 5,
+      "location": "almaty"
+    },
+    {
+      "id": "j13",
+      "title": "AI Researcher",
+      "skills_req": [
+        "ml",
+        "pytorch"
+      ],
+      "exp_req": 2,
+      "location": "spb"
+    },
+    {
+      "id": "j14",
+      "title": "Security Engineer",
+      "skills_req": [
+        "security",
+        "networking"
+      ],
+      "exp_req": 4,
+      "location": "moscow"
+    },
+    {
+      "id": "j15",
+      "title": "PHP Developer",
+      "skills_req": [
+        "php",
+        "laravel"
+      ],
+      "exp_req": 2,
+      "location": "almaty"
+    },
+    {
+      "id": "j16",
+      "title": "Go Developer",
+      "skills_req": [
+        "go",
+        "sql"
+      ],
+      "exp_req": 3,
+      "location": "astana"
+    },
+    {
+      "id": "j17",
+      "title": "Game Developer",
+      "skills_req": [
+        "unity",
+        "c#"
+      ],
+      "exp_req": 4,
+      "location": "moscow"
+    },
+    {
+      "id": "j18",
+      "title": "Business Analyst",
+      "skills_req": [
+        "analysis",
+        "sql"
+      ],
+      "exp_req": 2,
+      "location": "almaty"
+    },
+    {
+      "id": "j19",
+      "title": "Blockchain Developer",
+      "skills_req": [
+        "solidity",
+        "web3"
+      ],
+      "exp_req": 3,
+      "location": "spb"
+    },
+    {
+      "id": "j20",
+      "title": "Project Manager",
+      "skills_req": [
+        "management",
+        "agile"
+      ],
+      "exp_req": 5,
+      "location": "almaty"
+    }
+  ],
+  "rules": [
+    {
+      "id": "r1",
+      "kind": "min_exp",
+      "payload": {
+        "min": 2
+      }
+    },
+    {
+      "id": "r2",
+      "kind": "must_have_skills",
+      "payload": {
+        "skills": [
+          "python"
+        ]
+      }
+    },
+    {
+      "id": "r3",
+      "kind": "geo",
+      "payload": {
+        "location": "almaty"
+      }
+    },
+    {
+      "id": "r4",
+      "kind": "edu",
+      "payload": {
+        "level": "bachelor"
+      }
+    },
+    {
+      "id": "r5",
+      "kind": "must_have_skills",
+      "payload": {
+        "skills": [
+          "sql"
+        ]
+      }
+    },
+    {
+      "id": "r6",
+      "kind": "min_exp",
+      "payload": {
+        "min": 3
+      }
+    },
+    {
+      "id": "r7",
+      "kind": "geo",
+      "payload": {
+        "location": "moscow"
+      }
+    },
+    {
+      "id": "r8",
+      "kind": "edu",
+      "payload": {
+        "level": "master"
+      }
+    },
+    {
+      "id": "r9",
+      "kind": "must_have_skills",
+      "payload": {
+        "skills": [
+          "docker",
+          "linux"
+        ]
+      }
+    },
+    {
+      "id": "r10",
+      "kind": "min_exp",
+      "payload": {
+        "min": 5
+      }
+    }
+  ]
+}
