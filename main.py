@@ -1,20 +1,22 @@
+from collections import Counter
+from core.filters import by_location, by_exp_range, by_skill
+
 import sys
 import os
+
 sys.path.append(os.path.dirname(__file__))
 import streamlit as st
 import json
 import inspect
-from collections import Counter
 
 # Добавляем путь к project/
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-# Импортируем функции и сущности
 from core.domain import Candidate, Resume, Job
-from core.transforms import parse_resume, filter_by_skill, avg_exp, normalize_text
+from core.transforms import normalize_text, parse_resume, filter_by_skill, avg_exp
 
 # Загружаем данные
-with open("project/data/seed.json", encoding="utf-8") as f:
+with open("data/seed.json", encoding="utf-8") as f:
     data = json.load(f)
 
 candidates = tuple(Candidate(**c) for c in data["candidates"])
@@ -31,7 +33,16 @@ top_skills = Counter(all_skills).most_common(10)
 # Меню
 menu = st.sidebar.radio("Меню", ["Overview", "Data", "Functional Core"])
 
-# Overview
+
+# Собираем все навыки
+all_skills = [skill for c in candidates for skill in c.skills]
+top_skills = Counter(all_skills).most_common(10)
+
+# Отображаем
+st.subheader("Топ-10 навыков среди кандидатов")
+for skill, count in top_skills:
+    st.write(f"🔹 {skill}: {count}")
+
 if menu == "Overview":
     st.title("📊 Overview")
     st.metric("Total Candidates", len(candidates))
@@ -69,3 +80,19 @@ elif menu == "Functional Core":
     st.subheader("avg_exp")
     st.code(inspect.getsource(avg_exp))
 
+# Фильтры
+st.sidebar.header("Фильтрация")
+city = st.sidebar.text_input("Город")
+exp_lo = st.sidebar.slider("Опыт от", 0, 20, 1)
+exp_hi = st.sidebar.slider("Опыт до", 0, 20, 10)
+skill = st.sidebar.text_input("Навык")
+
+filtered = candidates
+if city:
+    filtered = list(filter(by_location(city), filtered))
+if skill:
+    filtered = list(filter(by_skill(skill), filtered))
+filtered = list(filter(by_exp_range(exp_lo, exp_hi), filtered))
+
+st.subheader("Результаты фильтрации")
+st.dataframe(filtered)
